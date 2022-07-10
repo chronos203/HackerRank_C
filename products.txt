@@ -1,0 +1,14 @@
+191,'Nike Men-s Free 5.0+ Running Shoe',99.99
+235,'Under Armour Hustle Storm Medium Duffle Bag',34.99
+273,'Under Armour Kids- Mercenary Slide',27.99
+365,'Perfect Fitness Perfect Rip Deck',59.99
+403,'Nike Men-s CJ Elite 2 TD Football Cleat',129.99
+502,'Nike Men-s Dri-FIT Victory Golf Polo',50
+627,'Under Armour Girls- Toddler Spine Surge Runni',39.99
+885,'Team Golf St. Louis Cardinals Putter Grip',24.99
+897,'Team Golf New England Patriots Putter Grip',24.99
+905,'Team Golf Texas Longhorns Putter Grip',24.99
+957,'Diamondback Women-s Serene Classic Comfort Bi',299.98
+1004,'Field & Stream Sportsman 16 Gun Fire Safe',399.98
+1014,'O-Brien Men-s Neoprene Life Vest',49.98
+1073,'Pelican Sunstream 100 Kayak',199.99
